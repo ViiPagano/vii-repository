@@ -1,5 +1,5 @@
 .servicios ul{
-    background-color: blueviolet;
+    background-color: $background-color_2;
     display: flex;
     justify-content: space-around;
     margin: 40px  40px 0px 40px;
@@ -7,7 +7,7 @@
 }
 
 .servicios li{
- font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-family: $font_1;
  font-size: 20px;
  text-decoration: none;
  list-style: none;
