@@ -3,10 +3,9 @@ header{
     height: 100px;
     width: 100%;
     text-decoration: none;
+   
     img{
        display: flex;
-       position: relative; left: 20px;
-       position: relative; top: 10px;
        height: 90px;
        margin-left: 20px;
        border-radius: 50%;
@@ -18,14 +17,16 @@ header{
         text-decoration: none;
         margin-right: 20px;
         text-decoration: none;
-
+        
     }
        li{
+        position: relative; bottom: 4px;
         margin-left: 15px;
         list-style: none;
         text-decoration: none;
         color: $color_2; 
-        position: relative; bottom: 20px;
+        
+        
 
     }
  }
