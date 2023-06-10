@@ -1,8 +1,7 @@
 footer {
-  height: 100px;
-  margin-top: 0px;
-  padding-bottom: 0px;
+  height: 150px;
   background-color: black;
+  padding-bottom: 30px;
 }
 footer ul {
   display: flex;
@@ -17,7 +16,7 @@ footer li {
 }
 footer img {
   display: flex;
-  height: 30px;
+  height: 35px;
   border-radius: 50%;
   margin-left: 15px;
   position: relative;
@@ -28,7 +27,8 @@ footer .redes ul {
   padding-right: 20px;
 }
 footer .redes img {
-  height: 40px;
+  height: 20px;
+  
 }
 footer p {
   color: rgba(214, 207, 220, 0.738);
@@ -36,5 +36,6 @@ footer p {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   margin-left: 35px;
   position: relative;
-  bottom: 75px;
+  bottom: 35px;
+ 
 }/*# sourceMappingURL=footer.css.map */
